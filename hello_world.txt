@@ -1,0 +1,1 @@
+Adding some text for practicing setting up my first repo with The Odin Project.
